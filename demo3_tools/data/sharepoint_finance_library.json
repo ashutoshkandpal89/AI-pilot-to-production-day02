@@ -1,0 +1,14 @@
+[
+  {
+    "doc_id": "sp-board-deck-q2",
+    "title": "Q2 Board Deck",
+    "content": "Q2 board deck: revenue up 18% QoQ, runway holds at 14 months, Q3 expansion approved at $860,000.",
+    "allowed_departments": ["finance"]
+  },
+  {
+    "doc_id": "sp-expense-policy",
+    "title": "Expense Policy 2026",
+    "content": "All expenses over $1,000 require AP lead approval before reimbursement.",
+    "allowed_departments": ["finance", "sales", "accounts_payable"]
+  }
+]

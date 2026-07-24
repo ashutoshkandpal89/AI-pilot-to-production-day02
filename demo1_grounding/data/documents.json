@@ -1,0 +1,37 @@
+[
+  {
+    "doc_id": "doc-market-entry",
+    "title": "Q3 Expansion Plan - Market Entry Strategy",
+    "content": "Q3 expansion targets two new regions: DACH and Southeast Asia. DACH entry is planned for month 1 via a local reseller partnership. Southeast Asia entry is planned for month 2 via a direct sales hire in Singapore.",
+    "allowed_departments": ["finance", "sales"],
+    "version": 1
+  },
+  {
+    "doc_id": "doc-headcount-plan",
+    "title": "Q3 Expansion Plan - Headcount & Budget",
+    "content": "Q3 expansion headcount: 4 new sales hires and 2 new solutions engineers, budgeted at $860,000 fully loaded for the quarter. Budget owner: Finance.",
+    "allowed_departments": ["finance"],
+    "version": 1
+  },
+  {
+    "doc_id": "doc-expansion-timeline",
+    "title": "Q3 Expansion Plan - Timeline & Milestones",
+    "content": "Milestone 1 (Week 2): reseller contract signed for DACH. Milestone 2 (Week 6): Singapore hire onboarded. Milestone 3 (Week 10): first DACH customer live.",
+    "allowed_departments": ["finance", "sales"],
+    "version": 1
+  },
+  {
+    "doc_id": "doc-runway-burn",
+    "title": "Current Runway & Burn Rate Report",
+    "content": "Current cash runway is 14 months at the present burn rate of $410,000 per month, including the Q3 expansion budget of $860,000 spread across the quarter.",
+    "allowed_departments": ["finance"],
+    "version": 1
+  },
+  {
+    "doc_id": "doc-sales-pipeline",
+    "title": "Sales Pipeline Overview",
+    "content": "Sales pipeline for Q3 stands at $2.1M in qualified opportunities, with DACH and Southeast Asia expansion expected to add two new regional pipelines by month 2.",
+    "allowed_departments": ["sales"],
+    "version": 1
+  }
+]

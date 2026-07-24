@@ -1,0 +1,5 @@
+[
+  {"employee_id": "emp-101", "employee_name": "Dana Reyes", "status": "pending", "amount": 342.50, "description": "Client dinner - Q3 kickoff"},
+  {"employee_id": "emp-101", "employee_name": "Dana Reyes", "status": "approved", "amount": 89.00, "description": "Taxi to airport"},
+  {"employee_id": "emp-204", "employee_name": "Priya Nair", "status": "pending", "amount": 1200.00, "description": "Conference registration"}
+]

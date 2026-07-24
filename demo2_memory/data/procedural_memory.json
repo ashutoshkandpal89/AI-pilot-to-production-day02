@@ -1,0 +1,12 @@
+{
+  "invoice_reconciliation": {
+    "steps": [
+      "match by PO number",
+      "flag variances over 5%",
+      "escalate flagged items to the AP lead"
+    ],
+    "match_field": "po_number",
+    "variance_threshold_pct": 5.0,
+    "escalate_to": "AP lead"
+  }
+}

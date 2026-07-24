@@ -1,0 +1,4 @@
+[
+  {"employee_id": "emp-101", "name": "Dana Reyes", "department": "sales", "manager": "Priya Nair"},
+  {"employee_id": "emp-204", "name": "Priya Nair", "department": "sales", "manager": "Jordan Blake"}
+]

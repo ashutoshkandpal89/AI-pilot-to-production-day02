@@ -1,0 +1,5 @@
+{
+  "u-001": {
+    "budget_summary_format": "always format budget summaries as a table with variance highlighted in red"
+  }
+}
