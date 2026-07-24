@@ -83,10 +83,7 @@ Every function with a non-obvious design choice has a `# Trainer Note:`
 explaining the reasoning, in the same voice as the deck's own trainer
 notes and the demo script's narration cues.
 
-## Mapping to the Original 7-Demo Script
-
-The trainer script lists 7 live demos; this repo's 4-folder structure
-combines them as follows:
+## Demo's
 
 | Repo folder | Deck demo(s) | Slide(s) |
 |---|---|---|
