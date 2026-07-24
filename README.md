@@ -1,3 +1,11 @@
+# AI Pilot to Production – Day 2
+
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![Azure AI Foundry](https://img.shields.io/badge/Azure-AI%20Foundry-0078D4)
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft-Agent%20Framework-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 # Day 2: Grounding Agents in Enterprise Context
 
 A teaching repository for the 90-minute Microsoft webinar **"Grounding
